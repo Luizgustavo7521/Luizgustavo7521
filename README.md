@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Luizgustavo7521)
 <h1 align="center">Hey there! I'm Luiz Gustavo👋 <br/>
-A passionate frontend developer from Brazil <code><img height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg"></code> </h1>
+A passionate front end developer from Brazil <code><img height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg"></code> </h1>
 
 <h3 align="center">Mechatronics Technician graduated and experience with responsive development (web and mobile), web systems (stack front-end), data
 structure, web application and information security architectures, algorithms and complexity analysis,
